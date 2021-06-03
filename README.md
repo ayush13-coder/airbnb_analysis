@@ -2,10 +2,10 @@
 ## Problem Statemet:
 Do exploratory data analysis(EDA) and explore and analyze the data to discover key understandings
 ## Inspiraton:
-What can we learn about different hosts and areas?
-What can we learn from predictions? (ex: locations, prices, reviews, etc)
-Which hosts are the busiest and why?
-Is there any noticeable difference of traffic among different areas and what could be the reason for it?
+1. What can we learn about different hosts and areas?
+2. What can we learn from predictions? (ex: locations, prices, reviews, etc)
+3. Which hosts are the busiest and why?
+4. Is there any noticeable difference of traffic among different areas and what could be the reason for it?
 
 ## DataSet:
 **Name: Airbnb Booking Analysis**
